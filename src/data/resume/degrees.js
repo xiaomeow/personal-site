@@ -6,7 +6,7 @@ const degrees = [
     year: 2023,
   },
   {
-    school: 'University California at Berkeley',
+    school: 'University of California at Berkeley',
     degree: 'B.S. Electrical Engineering and Computer Science; Chemistry',
     link: 'https://www.berkeley.edu/',
     year: 2017,
