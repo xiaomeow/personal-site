@@ -90,12 +90,12 @@ const skills = [
   {
     title: 'German',
     competency: 2,
-    category: ['Languages'],
+    category: ['Human Languages'],
   },
   {
     title: 'Czech',
     competency: 2,
-    category: ['Languages'],
+    category: ['Human Languages'],
   },
 
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
