@@ -89,7 +89,7 @@ const skills = [
   },
   {
     title: 'German',
-    competency: 2,
+    competency: 3,
     category: ['Human Languages'],
   },
   {
