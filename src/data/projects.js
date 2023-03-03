@@ -11,7 +11,6 @@ const data = [
   {
     title: 'German',
     subtitle: 'I am currently learning German, and here are some resources I found useful',
-    //link: 'https://drive.google.com/drive/folders/1bTJJaV6Q4NHkCvGv8Z7dfGxaRtG9UAEh?usp=sharing',
   },
   {
     title: 'Czech',
